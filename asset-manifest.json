@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.76ce0bad.js",
+    "static/media/sample_image_1.png": "/static/media/sample_image_1.8b1d92430d64786311e7.png",
+    "static/media/sample_image_2.png": "/static/media/sample_image_2.8b1d92430d64786311e7.png",
+    "index.html": "/index.html",
+    "main.76ce0bad.js.map": "/static/js/main.76ce0bad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.76ce0bad.js"
+  ]
+}
